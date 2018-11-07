@@ -21,15 +21,29 @@ Select one goal that you believe to be of paramount importance or of particular 
 
 To give you an idea of the complexity and detail expected in your portfolio, this whole section should occupy approximately 4 pages of A4.
 
-##### Development Testing
-Select a core function/component of the system, providing a short justification of why you have selected that particular element. This would typically be a crucial method at the heart of the system. Draw up a table detailing the test cases used to fully and comprehensively test that function/component. We are looking for specific input and output data values. You should aim to provide as complete testing coverage as possible of that core component. This section must not exceed a single sheet of A4 – we are more interested in quality than quantity !
-
 ##### OO Design & UML
-Provide a sample of a static and a dynamic UML modelling aspect of your system. Together with the diagram provide a section of written text that describes:
+Provide a high-level architecture diagram of your application. The diagram should make clear if you are building a client-server application, or a stand alone application. It should include relevant external systems (if applicable) your application depends on. 
+
+For the diagram, add two or three paragraphs that explain what the meaning of the components represented in the diagram.
+
+Provide one example of a static and a dynamic UML modelling aspect of your system.
+
+Together with the diagram provide a section of written text that describes:
 -	The context within which you created this diagram. This might for example be the use case that you were working on or modelling.
 -	The motivation behind your choice of this particular aspect. This might be due to a challenging design decision or uncertainty about the relationship of domain concepts.
 -	A brief reflection on the modelling choices you made and any knowledge that you gained from this model.
 
 This section must not exceed 3 pages of A4, including the diagrams and their respective analysis.
+
+
+##### Development Testing
+With reference to the architecture diagram in the previous section, describe your test strategy for each component. For example, unit test and integration tests on back and front end.
+
+List testing frameworks you will use to develop those tests.
+
+Describe challenges that affect the testability of the components and what you will do to overcome these.
+
+This section must not exceed a single sheet of A4.
+
 
 
