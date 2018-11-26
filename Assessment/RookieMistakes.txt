@@ -1,0 +1,34 @@
+
+
+Generic Content
+NED - Not Enough Detail
+BHL - A bit too high level
+BLL - A bit too low level
+PTL - Perhaps too long
+PTD - Perhaps too detailed
+NEE - Not enough examples
+
+
+Use case specific
+ERG - Entity related goals
+WNG - Workflow, not goals
+NIC - Not in context
+NUD - Not a usecase diagram
+
+
+Req specific
+NVR - Non verifable reqs
+NNF - Not non-functional !
+NID - No req IDs
+
+
+Presentation
+NSN - Non Standard Notation
+UMH - Use markdown, not HTML
+DRM - Didn't render for me
+NES - Not Enough Structure
+
+
+Administrational
+UNF - Unnecessary Files
+MFS - Messy File System
