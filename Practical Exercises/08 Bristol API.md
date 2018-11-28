@@ -75,9 +75,6 @@ import java.net.*;
 import org.json.simple.*;
 import org.json.simple.parser.*;
 
-import org.springframework.web.bind.annotation.*;
-import org.springframework.beans.factory.annotation.Value;
-
 private static JSONObject requestJSON(String urlString, String key)
 {
     try {
