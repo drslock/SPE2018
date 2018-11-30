@@ -64,6 +64,11 @@ The returned JSON is fairly complex ! You will need to pull out:
                 => The first element of the resulting array
                     => ExpectedDepartureTime
 ```
+You can choose which parser to use to do this: JSON-simple or JSONPath !
+
+NOTE: Sometimes the Bristol API can be a bit patchy. If your query doesn't  
+return a bus first time, try refreshing it after a couple of seconds  
+(just to make sure ;o)
 
 
 #### HTTP Request Code
@@ -71,9 +76,9 @@ The returned JSON is fairly complex ! You will need to pull out:
 import java.io.*;
 import java.util.*;
 import java.net.*;
-
 import org.json.simple.*;
 import org.json.simple.parser.*;
+import com.jayway.jsonpath.JsonPath;
 
 private static JSONObject requestJSON(String urlString, String key)
 {
