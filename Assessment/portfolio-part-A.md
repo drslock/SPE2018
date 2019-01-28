@@ -3,7 +3,7 @@ Software Project Engineering
 Project Documentation Portfolio Part A
 --------------------------------------
 
-The aim of this coursework is not to make more work for you, but rather to "core sample" the work that you should already be doing to fulfil the needs of your client. For each stage in the development process, we are asking you to prepare a small sample of material which, when combined together into a portfolio, will document the entire development lifecycle of your project (apart from long-term maintenance !)
+The aim of this coursework is not to make more work for you, but rather to "core sample" the work that you should already be doing to fulfill the needs of your client. For each stage in the development process, we are asking you to prepare a small sample of material which, when combined together into a portfolio, will document the entire development lifecycle of your project (apart from long-term maintenance !)
 
 In many ways, this is a realistic activity - in your working lives as developers your projects will most likely come under review as part of a software quality management process. Reviews can take a variety of forms, ranging from very formal, in-depth document and product investigation, through to much lighter-touch sampling reviews. It is towards the gentler end of the spectrum that your projects will be assessed in SPE.
 
@@ -22,16 +22,16 @@ Select one goal that you believe to be of paramount importance or of particular 
 To give you an idea of the complexity and detail expected in your portfolio, this whole section should occupy approximately 4 pages of A4.
 
 ##### OO Design & UML
-Provide a high-level architecture diagram of your application. The diagram should make clear if you are building a client-server application, or a stand alone application. It should include relevant external systems (if applicable) your application depends on. 
+Provide a high-level architecture diagram of your application. The diagram should make clear if you are building a client-server application, or a stand alone application. It should include relevant external systems (if applicable) your application depends on.
 
 For the diagram, add two or three paragraphs that explain what the meaning of the components represented in the diagram.
 
-Provide one example of a static and a dynamic UML modelling aspect of your system.
+Provide one example of a static and a dynamic UML modeling aspect of your system.
 
 Together with the diagram provide a section of written text that describes:
--	The context within which you created this diagram. This might for example be the use case that you were working on or modelling.
+-	The context within which you created this diagram. This might for example be the use case that you were working on or modeling.
 -	The motivation behind your choice of this particular aspect. This might be due to a challenging design decision or uncertainty about the relationship of domain concepts.
--	A brief reflection on the modelling choices you made and any knowledge that you gained from this model.
+-	A brief reflection on the modeling choices you made and any knowledge that you gained from this model.
 
 This section must not exceed 3 pages of A4, including the diagrams and their respective analysis.
 
@@ -44,6 +44,3 @@ List testing frameworks you will use to develop those tests.
 Describe challenges that affect the testability of the components and what you will do to overcome these.
 
 This section must not exceed a single sheet of A4.
-
-
-
